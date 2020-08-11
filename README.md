@@ -1,6 +1,6 @@
 # kanbanboard.web
 
-![alt text](vue-login.gif)
+![alt text](login.gif)
 
 ## Project setup
 ```
