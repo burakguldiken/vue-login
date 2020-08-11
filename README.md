@@ -1,26 +1,13 @@
-# kanbanboard.web
+# vue-login.web
 
 ![alt text](login.gif)
 
-## Project setup
-```
-npm install
-```
+### About
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+An improved login screen using vue and css
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Technologies
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Vuetify.js
+- Css
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
